@@ -1,8 +1,5 @@
 # Intelligent Voice Bot for Customer Interaction
-### AI Intern Project Assignment
 
-**Submitted by:** [Your Name]
-**Date:** November 2025
 
 ---
 
